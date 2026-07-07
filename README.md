@@ -22,4 +22,4 @@ No timestamp/reason-code granularity, so seasonal trends (e.g. Feb dip, Apr/Nov 
 
 6.Screenshots:
 Preview: https://github.com/mohammedsaqlainmalik/Uber-Rides-Dashboard/blob/main/Uber_CoverPage.png
-
+https://github.com/mohammedsaqlainmalik/Uber-Rides-Dashboard/blob/main/Uber_Rides_Performance_Dashborad.png
