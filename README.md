@@ -21,5 +21,5 @@ Tools Used to design it are Power BI (Power Query, DAX measures), data cleaning 
 No timestamp/reason-code granularity, so seasonal trends (e.g. Feb dip, Apr/Nov peaks) and cancellation causes can't be attributed to any specific driver and hence are flagged rather than guessed at. Dataset does not include cancellation reason codes,so loss categorization stops at cancelled vs incomplete rather than root cause.
 
 6.Screenshots:
-Preview: https://github.com/mohammedsaqlainmalik/Uber-Rides-Dashboard/blob/main/Uber_CoverPage.png
-https://github.com/mohammedsaqlainmalik/Uber-Rides-Dashboard/blob/main/Uber_Rides_Performance_Dashborad.png
+Preview: ![Alt text](https://github.com/mohammedsaqlainmalik/Uber-Rides-Dashboard/blob/main/Uber_CoverPage.png),
+![Alt text](https://github.com/mohammedsaqlainmalik/Uber-Rides-Dashboard/blob/main/Uber_Rides_Performance_Dashborad.png)
